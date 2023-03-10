@@ -1,5 +1,5 @@
 
-[How to load extension?](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
+[How to load extension?](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) You might have to update the "matches" array in manifest.json.
 
 This chrome/edge extension enables filtering the legends in grafana dashboards charts.
 
