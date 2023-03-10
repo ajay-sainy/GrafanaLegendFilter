@@ -12,7 +12,7 @@
                 "scripts/content.js"
             ],
             "matches": [
-                "https://*.grafana.azure.com/*"
+                "https://*.grafana.azure.com/d/*"
             ]
         }
     ]
