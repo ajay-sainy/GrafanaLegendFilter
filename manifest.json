@@ -1,0 +1,19 @@
+{
+    "name": "Grafana Legend Filter",
+    "description": "Grafana Legend Filter",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "https://*.grafana.azure.com/*"
+            ]
+        }
+    ]
+}
